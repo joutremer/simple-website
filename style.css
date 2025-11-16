@@ -1,0 +1,18 @@
+.hero{
+    background-color:#1F2937;
+    color: white;
+
+}
+.header{
+    display: flex;
+    
+}
+.right-links{
+    padding-left: 75%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+a.header{
+    font-weight: 100;
+}
